@@ -1,0 +1,155 @@
+Artem Kutasevych – iOS Developer
+Parma, OH 44134
+(440)-390-1355 - artem.kutasevych@gmail.com - LinkedIn 
+Fully Work Authorized ∙ No Visa Sponsorship Required
+
+Summary
+I am an iOS Developer with 6+ years of experience in building and delivering high-quality mobile applications. I have experience to develop apps using Swift and Objective-C programming languages with support of the most popular MVx architecture patterns. As part of my activities as an engineer, I constantly follow code testability approach and use unit and UI tests in my practice.
+I’m a self-motivated and quick learner that easily adapt to changeable requirements.
+
+Skills
+Computer Language: Swift, Objective-C,
+Standard: Git
+Framework: ReactiveCocoa, React Native, Redux, MapKit, RxSwift, Combine, UIKit, XCTest, SwiftUI, Apple Core ML, CoreData
+IDE: Xcode
+Solution: Postman, InVision, Charles Proxy, BitBucket, SourceTree, Jira, Zeplin, Figma, GitHub, Gitlab.
+Other: Firebase Crashlytics, Mapbox, REST API, CocoaPods, Firebase Remote Config, iOS Apps Debugging
+Scrum, Agile, Scaled Agile Framework, Kanban
+
+Work experience
+Nov-2023 - Jun-2024 - Senior Software Engineer
+Customer Description: Government/Non-profit
+Project Roles: Developer, Key Developer
+Responsibilities: 
+implemented user flow for creating and filling bank form
+implemented digital signature for bank form
+implemented user flow for booking appointment in embassy
+Tools and Technologies: localstorage, Xcode, Figma, Bitrise, SourceTree, CocoaPods, Postman, Charles Proxy, UIKit, ReactiveCocoa, Swift
+
+
+Sep-2023 - Nov-2023 - senior software engineer, EPAM Systems
+Customer Description: Software & Hi-Tech
+Project Description: Mobile Application Development - Neighborhood Office, a community of neighbors living in one area, trusted by working in the same company and having the possibility to establish a network inside and outside of working hours
+Team Size: 5  react native developers
+3 quality assurance engineers
+1 business analysts
+Project Roles: Developer
+Responsibilities: 
+integrated Mapbox SDK
+implemented offline maps functionality for MapboxSDK  for iOS side
+implemented choosing text functionality in text field for iOS side
+Tools and Technologies: localstorage, Visual Studio Code, Xcode, SourceTree, Redux Toolkit, Redux, JavaScript, TypeScript Swift, React Native, Mapbox
+
+Feb-2023 - Apr-2023 - senior software engineer, EPAM Systems
+Customer Description: EV - Government/Non-profit
+Team Size: Team
+3  ios developers
+3 android developers
+3 quality assurance engineers
+1 business analysts
+Project Roles: Key Developer
+Responsibilities: 
+implemented feature for checking app version
+created FAQ modules
+Tools and Technologies: local storage, Xcode, Figma, Bitrise, SourceTree, CocoaPods, UIKit, ReactiveCocoa, Swift
+
+Oct-2021 - Jan-2023 - Senior Software Engineer, EPAM Systems
+Customer Description: Retail & Distribution
+Project Description: Recommendations based on food preferences and behavior. App is a smart platform and it learns from your past purchases and previous recipe selections. But most importantly, app helps you to set and adopt (balanced) food habits
+Team Size: Team
+3  ios developers
+3 android developers
+3 BE developers
+2 quality assurance engineers
+1 business analysts
+1 project manager
+1 product owner
+Project Roles: Key Developer
+Responsibilities: 
+implemented new feature with recipe recommendations
+implemented bar-code functionality for choosing products for recipes
+implemented possibility to save favorite products in local store on device
+led ios-team from 3 people
+Tools and Technologies: CoreData, Xcode, Figma, CocoaPods, Postman, Charles Proxy, ReactiveCocoa, Swift
+
+Oct-2020 - Aug-2021 - Software engineer, EPAM Systems
+Customer Description: EV - Real Estate
+Project Description: Discovery, analysis, design and development of SmartHome Mobile application and Web Portal for managing the SmartHome features
+Team Size: 5 ios developers
+5 android developers
+3 quality assurance engineers
+8 backend engineers
+6 web developers
+1 business analytic
+Project Roles: Key Developer
+Responsibilities: 
+implemented localization approach for the app
+created user flow for daily routine (create/ edit/ delete)
+took part in creation architecture of the app
+Tools and Technologies: Realm Database, Xcode, Figma, CocoaPods, Combine [framework], Swift, CocoaPods, Unit Testing Tools
+
+
+Mar-2020 - Sep-2020 - Software engineer, EPAM Systems
+Customer Description: Software & Hi-Tech
+Project Description: Mobile App, the application was implemented from scratch
+Team Size: Team
+2 ios developers
+2 android developers
+2 web developers
+Project Roles: Key Developer
+Responsibilities: 
+implemented user flow for inspector and user
+implemented login/ logout flow
+took part in creation CI flow
+created example for using RealmDB in SwiftUI
+took part in creation architecture of the app
+developed app from scratch
+Tools and Technologies: Realm Database, Xcode, GitHub Actions, SourceTree, CocoaPods, InVision, SwiftUI, Swift, CocoaPods
+
+Jul-2018 - Aug-2019 - Software Engineer, EPAM Systems
+Customer Description: Software & Hi-Tech
+Project Description: Application for parking
+Team Size: Dev team: 3
+QA team: 2
+Project Roles: Developer
+Responsibilities: 
+took part in developing switching account feature
+implemented "Park Now" feature in app
+Tools and Technologies: localstorage, Xcode, Fastlane, Zeplin, SourceTree, CocoaPods, Objective-C, Swift, CocoaPods
+
+Feb-2018 - May-2018 - Junior Software Engineer
+Project Description: Start up project; A site and set of apps that allows users to book appointments for tradespeople (plumbers, electricians). Also apps for the tradespeople. Google Cloud stack
+Team Size: QA: 1 member; Frontend and Backend: 4 members; IOS: 2 members, Android: 2 members
+Project Roles: Developer
+Responsibilities: 
+implemented transition from MVC architecture to VIPER architecture
+integrated 3d party lib Generamba in project
+Tools and Technologies: CoreData, SQLite, Xcode, Zeplin, SourceTree, CocoaPods, Swift
+Dec-2017 - Jan-2018 - IOS Trainee, EPAM RD Lab
+Project Description: TeamProject, the application was implemented from scratch.
+AuthController. Application for authorization on Facebook and download the picture in CoreData
+Galaxy View Application for parsing and downloading picture from web-site
+ChartView. Application can represent a tabular numeric data
+Calculator. Application can calculate and solve simple operations
+Team Size: Team: 3 members
+Project Roles: IOS Developer
+Responsibilities: 
+Developed calculator for calculating price of goods
+Took part in developing Sign In and Sign Out view controllers with using keyChain technology
+Took part in designing and discussing of the application's architecture
+Integrate Facebook API for displaying user posts
+Developed storing facebook posts in core data
+Made loading saved data from Core Data if user have trouble with Internet
+Realised parsing data from web-site
+Implemented chart with ability to scale
+Realising simple arithmetic operation
+Developed project from scratch
+Tools and Technologies: CoreData, Xcode, SourceTree, UIKit, CoreData, Objective-C
+
+Application
+O-fish: https://apps.apple.com/us/app/o-fish/id1523642187
+
+Education
+Bachelor Degree, Aerospace engineering,  2008
+Kharkiv National Aerospace university (KhAI), 
+
